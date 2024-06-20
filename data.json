@@ -2,6 +2,7 @@
   {
     "id": 1,
     "country_name": "Algeria",
+    "image_url" : "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
     "regions": [
       {
         "name": "Tassili n'Ajjer National Park",
@@ -59,6 +60,7 @@
   {
     "id": 2,
     "country_name": "Colombia",
+    "image_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1024px-Flag_of_Colombia.svg.png",
     "regions": [
       {
         "name": "Lost City",
