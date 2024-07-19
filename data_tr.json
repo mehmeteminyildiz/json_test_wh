@@ -1,174 +1,34 @@
 [
   {
     "id": 1,
-    "country_name": "Cezayirr",
-    "image_url": "https://flagcdn.com/w640/tr.png",
+    "country_name": "Cezayir",
+    "image_url": "https://flagcdn.com/w640/dz.png",
     "regions": [
       {
-        "name": "Tassili n'Ajjer National Park",
-        "image_url": "https://images.unsplash.com/photo-1704990095546-da2a7fb453ac?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "description": "This park, listed as a UNESCO World Heritage site, contains over 15,000 prehistoric rock paintings. It is renowned for its stunning rock formations and dramatic geological features. It is a haven for nature enthusiasts and history buffs alike.",
+        "name": "Cezayir Kasbahı",
+        "image_url": "B",
+        "description": "Osmanlı dönemine ait tarihi bir bölge olan Cezayir Kasbahı, dar sokakları, geleneksel evleri ve tarihi camileriyle ünlüdür. Şehir merkezinin bu kısmı, mimari ve kültürel zenginliği ile dikkat çeker ve bu nedenle UNESCO Dünya Mirası Listesi'nde yer alır. Kasbah, hem tarihi hem de kültürel açıdan büyük öneme sahiptir.",
         "words": [
-          "abcdefghijklmnop",
-          "abcdefghijklmno",
-          "abcdefghijklmn",
-          "abcdefghijklm",
-          "abcdefghijkl",
-          "abcdefghijk",
-          "abcdefghij",
-          "abcdefghi",
-          "abcdefgh",
-          "abcdefg"
+          "a",
+          "b"
         ]
       },
       {
-        "name": "Ahaggar Mountains",
-        "image_url": "https://images.unsplash.com/photo-1672700551116-da50dc22a2e5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "description": "Located in southern Algeria, these mountains are known for their volcanic rock formations and striking peaks. The area is famous for the city of Tamanrasset and the Assekrem plateau. It is a popular destination for climbers and adventurers.",
+        "name": "Djemila",
+        "image_url": "E",
+        "description": "Djemila, Roma döneminden kalma antik bir şehir olup, iyi korunmuş yapıları ile dikkat çeker. Antik Roma'nın mühendislik ve mimari becerilerini sergileyen bu kalıntılar, UNESCO Dünya Mirası Listesi'ndedir. Şehir, Roma tarihinin önemli izlerini sunar.",
         "words": [
-          "abcdef",
-          "abcde",
-          "abcd",
-          "abc",
-          "ab",
-          "asdfasdf",
-          "obtain",
-          "destroy",
-          "brig",
-          "silent"
+          "c",
+          "d"
         ]
       },
       {
         "name": "Tipaza",
-        "image_url": "https://images.unsplash.com/photo-1712174198463-69dea8d1d03e?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "description": "This ancient city, also a UNESCO World Heritage site, features well-preserved Roman ruins. Visitors can explore Roman villas, theaters, and baths. It is situated along the picturesque Mediterranean coast.",
+        "image_url": "H",
+        "description": "Tipaza, Roma dönemine ait kalıntılar ve etkileyici doğal güzellikleri ile tanınır. Bu antik şehir, deniz kenarında bulunan tarihi yapıları ve güzel manzaraları ile ünlüdür. Tarihi kalıntılar ve doğal güzelliklerin birleşimi olarak öne çıkar.",
         "words": [
-          "ibid",
-          "super",
-          "heavy",
-          "cane",
-          "wave",
-          "docs",
-          "hell",
-          "flank",
-          "compare",
-          "badge"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "country_name": "Kolombiya",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Colombia.png",
-    "regions": [
-      {
-        "name": "Lost City",
-        "image_url": "https://images.unsplash.com/photo-1612869443604-7c3ad22bede4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "description": "Believed to have been founded around 800 AD, it predates Machu Picchu by about 650 years. The Lost City is accessible via a challenging multi-day trek through the Sierra Nevada de Santa Marta mountains. It is an archaeological wonder that provides insight into the Tayrona civilization.",
-        "words": [
-          "lift",
-          "careful",
-          "broth",
-          "adore",
-          "hero",
-          "sharp",
-          "frozen",
-          "sleeping",
-          "turkey",
-          "useful"
-        ]
-      },
-      {
-        "name": "Cartagena",
-        "image_url": "https://images.unsplash.com/photo-1583531352515-8884af319dc1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "description": "This coastal city is famous for its well-preserved colonial architecture and vibrant history. The walled city, a UNESCO World Heritage site, features cobblestone streets, colorful buildings, and historic fortresses. Cartagena is a prime example of Spanish colonial urban design.",
-        "words": [
-          "blur",
-          "bury",
-          "account",
-          "according",
-          "village",
-          "consume",
-          "firth",
-          "wordy",
-          "basic",
-          "kept"
-        ]
-      },
-      {
-        "name": "Tayrona National Park",
-        "image_url": "https://images.unsplash.com/photo-1635079552384-dd8adecd8a7c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "description": "Located on the Caribbean coast, this park boasts stunning beaches, lush rainforest, and diverse wildlife. It is a popular destination for hiking, snorkeling, and bird watching. The park also holds significant cultural importance for the indigenous Kogi people.",
-        "words": [
-          "reality",
-          "sept",
-          "wish",
-          "lower",
-          "bach",
-          "print",
-          "forward",
-          "toward",
-          "angry",
-          "doubt"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "country_name": "Malavi",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSCOO5tTZWFrNKVH69itaRAQlJ69AVAsSNA&s",
-    "regions": [
-      {
-        "name": "Lake Malawi",
-        "image_url": "https://greensafaris.com/blog/wp-content/uploads/2023/04/Snorkelling-near-rocky-outcrop-in-Lake-Malawi-1920x1152.jpg",
-        "description": "One of Africa's largest and deepest lakes, Lake Malawi is renowned for its clear waters and diverse fish species, many of which are found nowhere else in the world. The lake offers excellent opportunities for snorkeling, diving, and relaxing on its sandy beaches. It is also a vital resource for local communities and a major tourist attraction.",
-        "words": [
-          "without",
-          "convert",
-          "husk",
-          "mountain",
-          "course",
-          "herself",
-          "urgent",
-          "burp",
-          "birl",
-          "lock"
-        ]
-      },
-      {
-        "name": "Nyika National Park",
-        "image_url": "https://www.malawitourism.com/wp-content/uploads/2019/07/nyika-Bentley-Palmer-e1564140109170.jpg",
-        "description": "This highland park is known for its rolling grasslands, rich biodiversity, and beautiful wildflowers. Home to a variety of wildlife, including zebras, antelopes, and leopards, it offers unique opportunities for hiking, mountain biking, and horseback riding. Nyika National Park is a haven for nature lovers and provides stunning scenic vistas.",
-        "words": [
-          "responsible",
-          "produce",
-          "disk",
-          "jaws",
-          "finch",
-          "school",
-          "rear",
-          "rich",
-          "when",
-          "earn"
-        ]
-      },
-      {
-        "name": "Mulanje Mountain",
-        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/44/36/11/mount-mulanje.jpg?w=1200&h=-1&s=1",
-        "description": "Known as the 'Island in the Sky', Mulanje Mountain is the highest peak in Malawi, offering breathtaking views and a challenging hike. The mountain is surrounded by lush forests and tea plantations, making it a scenic spot for outdoor enthusiasts. It is also culturally significant to local communities, who hold it in spiritual regard.",
-        "words": [
-          "host",
-          "zone",
-          "balm",
-          "aqua",
-          "draw",
-          "gale",
-          "program",
-          "best",
-          "single",
-          "nurse"
+          "e",
+          "f"
         ]
       }
     ]
