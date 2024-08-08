@@ -32,5 +32,30 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1,
+    "country_name": "Cezayir",
+    "image_url": "https://flagcdn.com/w640/dz.png",
+    "regions": [
+      {
+        "name": "Cezayir Kasbahı",
+        "image_url": "",
+        "description": "Osmanlı dönemine ait tarihi bir bölge olan Cezayir Kasbahı, dar sokakları, geleneksel evleri ve tarihi camileriyle ünlüdür. Şehir merkezinin bu kısmı, mimari ve kültürel zenginliği ile dikkat çeker ve bu nedenle UNESCO Dünya Mirası Listesi'nde yer alır. Kasbah, hem tarihi hem de kültürel açıdan büyük öneme sahiptir.",
+        "words": []
+      },
+      {
+        "name": "Djemila",
+        "image_url": "",
+        "description": "Djemila, Roma döneminden kalma antik bir şehir olup, iyi korunmuş yapıları ile dikkat çeker. Antik Roma'nın mühendislik ve mimari becerilerini sergileyen bu kalıntılar, UNESCO Dünya Mirası Listesi'ndedir. Şehir, Roma tarihinin önemli izlerini sunar.",
+        "words": []
+      },
+      {
+        "name": "Tipaza",
+        "image_url": "",
+        "description": "Tipaza, Roma dönemine ait kalıntılar ve etkileyici doğal güzellikleri ile tanınır. Bu antik şehir, deniz kenarında bulunan tarihi yapıları ve güzel manzaraları ile ünlüdür. Tarihi kalıntılar ve doğal güzelliklerin birleşimi olarak öne çıkar.",
+        "words": []
+      }
+    ]
   }
 ]
